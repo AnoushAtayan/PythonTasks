@@ -1,4 +1,3 @@
-
 def vowel_check(input):
     list = ['a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U']
     for i in list:
@@ -7,3 +6,6 @@ def vowel_check(input):
         else:
             return False
 print vowel_check('F')
+
+
+
