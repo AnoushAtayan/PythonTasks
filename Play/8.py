@@ -6,5 +6,5 @@ def is_palindrome(word):
             return True
         else:
             return False
-        
+
 print is_palindrome("MadaM")
